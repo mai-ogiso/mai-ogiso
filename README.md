@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mai</h1>
 <h3 align="center">A passionate software engineer from Japan</h3>
 
-- 🌱 I’m currently learning **Node.js, express and Mongo DB**
+- 🌱 I’m currently learning **TypeScript**.
 
 - 📫 How to reach me **maiogiso.dev@gmail.com**
 
